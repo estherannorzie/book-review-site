@@ -36,6 +36,10 @@ li {
     color: green;
 }
 
+.reviews {
+    background-color: lightgray;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
 }
