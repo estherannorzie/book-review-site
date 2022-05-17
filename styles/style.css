@@ -1,14 +1,31 @@
-.navbar {
+header, footer {
+    color: blue;
+    background-color: pink;
+    border-style: dotted;
+    margin-left: 0px;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+.page-title {
+    margin-left: 35px;
+}
+
+li {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    color: blue;
-    background-color: gray;
+    display: inline;
 }
 
 
-li {
-    display: inline;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 body {
