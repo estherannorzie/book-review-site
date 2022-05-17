@@ -2,9 +2,20 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: burlywood;
+    color: blue;
+    background-color: gray;
 }
 
-.horizontal {
+
+li {
     display: inline;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color:blue; 
 }
