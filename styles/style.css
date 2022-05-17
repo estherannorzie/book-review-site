@@ -28,6 +28,14 @@ li {
     width: 50%;
 }
 
+#eloquent-ruby-resize {
+    width: 500px
+}
+
+#eloquent-ruby-title {
+    color: green;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -35,4 +43,9 @@ body {
 a:visited { 
     text-decoration: none; 
     color:blue; 
+}
+
+a:hover { 
+    text-decoration: none; 
+    color:red; 
 }
