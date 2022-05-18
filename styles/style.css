@@ -13,6 +13,10 @@ main {
     margin-left: 35px;
 }
 
+#page-title-color {
+    color: blueviolet;
+}
+
 li {
     list-style-type: none;
     margin: 0;
@@ -37,6 +41,7 @@ li {
 }
 
 .reviews {
+    line-height: 150%;
     background-color: lightgray;
 }
 
